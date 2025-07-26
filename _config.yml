@@ -1,0 +1,6 @@
+title: "Sahasra IT Pty Ltd"
+description: "Tailored IT solutions for your business growth."
+baseurl: ""               # leave blank if you use root
+url: "https://isuserselva.github.io/sahasra-it-pty-ltd"
+theme: minima              # or remove/theme: none if you use custom layout
+markdown: kramdown
